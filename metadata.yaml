@@ -1,0 +1,31 @@
+_repo: A-Century-of-Negro-Migration_10968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woodson, Carter Godwin
+    aliases:
+    - Woodson, Carter G.
+    - Woodson, C. G. (Carter Godwin)
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '3835'
+    url: http://www.gutenberg.org/2009/agents/3835
+    wikipedia: http://en.wikipedia.org/wiki/Carter_G._Woodson
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rural-urban migration -- United States -- History'
+- !lcsh 'Migration, Internal -- United States'
+- !lcc 'E151'
+- !lcsh 'African Americans -- Migrations -- History'
+- !lcsh 'African Americans -- Northeastern States'
+- GITenberg
+title: A Century of Negro Migration
+url: http://www.gutenberg.org/ebooks/10968
